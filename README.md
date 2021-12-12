@@ -14,6 +14,7 @@ https://discord.gg/BUgn9dGgB2
 
 ## Credits:
 * aflacc - Original maintainer of ProjectFNF
+* Zeptos - Main developer of ProjectFNF 1.0
 * l1ttleO - Main developer of ProjectFNF 2.0
 * Shadow Mario - Coding for Psych Engine
 * RiverOaken - Arts and Animations for Psych Engine
